@@ -265,5 +265,4 @@ st.write("""
 Overall, this dashboard shows that Netflix has a strong focus on movies, U.S. content, and continuous catalog expansion.  
 From a consulting perspective, Netflix could benefit from increasing international content diversity and continuing to align its content strategy with audience preferences.
 
-This dashboard helps transform raw data into useful business insights for decision-making.
 """)
