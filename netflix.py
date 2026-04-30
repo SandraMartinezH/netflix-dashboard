@@ -9,8 +9,6 @@ Original file is located at
 # Netflix Analysis
 """
 
-from google.colab import files
-uploaded = files.upload()
 
 import numpy as np
 import pandas as pd
